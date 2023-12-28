@@ -1,6 +1,4 @@
 # NUMBER GUESSING GAME
-
-# Number Guessing Game in Java
 # Project Overview
 A simple console-based Number Guessing Game implemented in Java using the NetBeans IDE. The program generates a random number within a specified range, prompts the user to guess the number, provides feedback on the guess, and allows for multiple rounds with a scoring system.
 
